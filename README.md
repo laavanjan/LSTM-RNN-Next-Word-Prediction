@@ -1,7 +1,7 @@
 
 ### **📌 ANN Classification Churn** 🚀  
 
-**A deep learning-based classification model to predict customer churn using Artificial Neural Networks (ANN).**  
+**An advanced LSTM RNN-based deep learning model designed for next-word prediction. This model processes sequential text data using deep learning techniques to generate accurate and context-aware word predictions in real-time. It is trained on Shakespeare's Hamlet to enhance its language understanding and predictive capabilities.**  
 
 🔗 **GitHub Repository:** [LSTM-RNN-Next-Word-Prediction](https://github.com/laavanjan/LSTM-RNN-Next-Word-Prediction)  
 🌐 **Live Streamlit App:** [View Here](https://lstm-rnn-next-word-prediction-maccjvzsqpjngzjehhaj7r.streamlit.app/)  

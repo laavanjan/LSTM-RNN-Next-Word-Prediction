@@ -14,7 +14,6 @@
 ✅ Fully connected ANN with optimized hyperparameters  
 ✅ Model evaluation with performance metrics 📊  
 ✅ Interactive UI via Streamlit for real-time classification 🎨  
-✅ TensorBoard integration for visualization 🖥️  
 
 ---
 
